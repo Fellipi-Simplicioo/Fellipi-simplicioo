@@ -25,8 +25,8 @@ Aqui estão as linguagens e ferramentas que domino ou que fazem parte do meu cro
 Para que você possa acompanhar meu progresso e contribuições:
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Fellipi-Simplicioo]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Fellipi-Simplicioo]&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fellipi-Simplicioo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellipi-Simplicioo&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
