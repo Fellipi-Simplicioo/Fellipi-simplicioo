@@ -35,7 +35,7 @@ Para que você possa acompanhar meu progresso e contribuições:
 
 Gosto de trocar ideias, entre em contato comigo que respondo assim que possível !
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/fellipi-simplicio-370034390?utm_source=share_via&utm_content=profile&utm_medium=member_android])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipi-simplicio-370034390)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/[SEU-USUARIO-AQUI])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinesgameplayxbox@gmail.com)
 
