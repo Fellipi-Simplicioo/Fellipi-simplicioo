@@ -11,9 +11,11 @@ Seja bem-vindo(a) ao meu perfil!
 Aqui estão as linguagens e ferramentas que domino ou que fazem parte do meu cronograma de estudos atual:
 
 ### 🚀 Backend
+
 <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> **Java** &nbsp;&nbsp; <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> **Python** &nbsp;&nbsp; <img align="center" alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> **SQL**
 
 ### 🎨 Frontend
+
 <img align="center" alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> **HTML5** &nbsp;&nbsp; <img align="center" alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> **CSS3** &nbsp;&nbsp; <img align="center" alt="JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> **JavaScript**
 
 
