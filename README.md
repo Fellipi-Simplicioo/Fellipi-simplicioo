@@ -21,6 +21,11 @@ Aqui estão as linguagens e ferramentas que domino ou que fazem parte do meu cro
 <br>
 
 ### <img align="center" alt="HTML5" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> HTML5 &nbsp;&nbsp;&nbsp;&nbsp; <img align="center" alt="CSS3" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> CSS3 &nbsp;&nbsp;&nbsp;&nbsp; <img align="center" alt="JS" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> JavaScript
+<br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30"> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"> &nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30">
 
 ## 📊 Estatísticas do GitHub
 
